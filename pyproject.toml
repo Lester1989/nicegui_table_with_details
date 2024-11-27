@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nicegui-table-with-details"
+version = "0.1.0"
+description = "A generic component that displays a table with details and actions of the selected row"
+authors = ["Lukas Jaspaert <l.ester@gmx.de>"]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+nicegui = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

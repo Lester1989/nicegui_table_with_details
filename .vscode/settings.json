@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/nicegui_table_with_details"
+    ]
+}
